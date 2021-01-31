@@ -1,0 +1,5 @@
+C:\Users\ayode\source\repos\Deji's project\obj\Debug\net5.0\Deji's project.csprojAssemblyReference.cache
+C:\Users\ayode\source\repos\Deji's project\obj\Debug\net5.0\Deji's project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayode\source\repos\Deji's project\obj\Debug\net5.0\Deji's project.AssemblyInfoInputs.cache
+C:\Users\ayode\source\repos\Deji's project\obj\Debug\net5.0\Deji's project.AssemblyInfo.cs
+C:\Users\ayode\source\repos\Deji's project\obj\Debug\net5.0\Deji's project.csproj.CoreCompileInputs.cache
